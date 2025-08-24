@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi there I'm👋
 
-<!--
-**agyad/agyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Competitive Programmer | Codeforces Enthusiast
 
-Here are some ideas to get you started:
+## 🏆 Codeforces Profile
+https://codeforces.com/profile/Mr.WhiteHat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning Backend-Development 
+- 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
